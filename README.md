@@ -12,7 +12,7 @@ Each individual app icon is  incredibly sharp and are intentionally built to loo
 
 ## Installation
 
-1. On your iOS/iPadOS device running iOS 12 or later, go to the "Releases" tab above.
+1. On your iOS/iPadOS device running iOS 12 or later, go to the "Releases" tab below.
 2. Download Modern 6 SE's app icon pack.
 3. Open up Siri Shortcuts and create a new shortcut.
 4. Under "Actions", choose "Open App" and add it to your new shortcut.
